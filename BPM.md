@@ -1,4 +1,3 @@
-
 # BUSINESS PROCESS MODELS
 
 ## Order Lifecycle
@@ -15,6 +14,7 @@ The model outlines the journey of fulfilling orders allocated to warehouses, and
 
 ## Inventory Lifecycle
 The model outlines the process of synchronizing inventory data from various systems, calculating Available-to-Promise (ATP), and the changes inventory undergoes. Learn about the events that trigger increases or decreases in inventory.
+<img width="330" height="330" alt="image" src="https://github.com/user-attachments/assets/0731a8c1-f918-432b-8afb-d14ad83917ff" />
 
 ## Transfer Orders Lifecycle
 The model outlines the process of inventory movement involving three types of transfer orders, from warehouses to stores, between stores, or from stores to warehouses.
