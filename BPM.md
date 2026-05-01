@@ -1,3 +1,4 @@
+
 # BUSINESS PROCESS MODELS
 
 ## Order Lifecycle
@@ -6,9 +7,11 @@ The model outlines the end-to-end flow of an order, from its creation to fulfill
 
 ## Store Fulfillment Lifecycle
 The model outlines the journey of fulfilling orders allocated to stores, and the status changes they undergo throughout the process. Learn about how orders are processed and fulfilled within the store network.
+<img width="330" height="330" alt="image" src="https://github.com/user-attachments/assets/408bd389-9a37-4061-8a4d-fab90864a56e" /> 
 
 ## Warehouse Fulfillment Lifecycle
 The model outlines the journey of fulfilling orders allocated to warehouses, and the status changes they undergo throughout the process. Learn about how HotWax Commerce stays updated on orders fulfilled within the warehouse network.
+<img width="330" height="330" alt="image" src="https://github.com/user-attachments/assets/a6346642-1ae2-4176-9953-9e2ef19081c2" />
 
 ## Inventory Lifecycle
 The model outlines the process of synchronizing inventory data from various systems, calculating Available-to-Promise (ATP), and the changes inventory undergoes. Learn about the events that trigger increases or decreases in inventory.
